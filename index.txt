@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Beilin Yao
+Beilin Yao
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+etacarinae132698@gmail.com
 
 Phone
-+1 (213) 352-2795
++86 131-6329-6981
 
 Birthday
-June 23, 1982
+Feb. 27, 2002
 
 Location
-Sacramento, California, USA
+Wuhan, Hubei, China
 
 # navbar
 
